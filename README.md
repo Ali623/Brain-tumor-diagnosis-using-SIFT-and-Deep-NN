@@ -18,6 +18,10 @@ Before using the code in this repository, make sure you have the following depen
 
 You can install most of these libraries using pip.
 
+## dataset
+
+Downloadthe dataset from https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256
+
 ## Usage
 
 1. **Clone the repository:**
