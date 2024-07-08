@@ -20,7 +20,7 @@ You can install most of these libraries using pip.
 
 ## dataset
 
-Downloadthe dataset from https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256
+Download the dataset from https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256
 
 ## Usage
 
